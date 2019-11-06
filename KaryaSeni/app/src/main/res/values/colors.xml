@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#FCA9A4</color>
+    <color name="colorAccent">#F3DA8B</color>
+    <color name="hitam">#000000</color>
+    <color name="pink">#03A9F4</color>
+    <color name="pink_tua">#F0CCC0</color>
+    <color name="biru_muda">#BFD8D2</color>
+    <color name="putih">#ffffff</color>
+    <color name="transparan">#C000</color>
+    <color name="biru_tua">#647A9B</color>
+</resources>
